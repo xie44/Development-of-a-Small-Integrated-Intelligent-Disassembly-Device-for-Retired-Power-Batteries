@@ -1,0 +1,2 @@
+# Development-of-a-Small-Integrated-Intelligent-Disassembly-Device-for-Retired-Power-Batteries
+Currently, the power battery dismantling process faces prominent issues such as high reliance on manual labor, bulky and costly automated equipment, and safety concerns. To address these problems, this project has developed a small-scale integrated intelligent dismantling device centered on a Raspberry Pi. 
